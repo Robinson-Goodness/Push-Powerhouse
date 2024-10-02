@@ -1,2 +1,2 @@
 # Push-Powerhouse
-A team project to demostrate Collaboration among team members on github.
+A team project to demonstrate Collaboration among team members in GitHub.
