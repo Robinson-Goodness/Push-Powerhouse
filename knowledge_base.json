@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "hey there!!"
+    },
+    {
+      "question": "how are you",
+      "answer": "doing well my friend"
+    },
+    {
+      "question": "",
+      "answer": "Please input a value"
+    },
+    {
+      "question": "",
+      "answer": "Please input a value"
+    },
+    {
+      "question": "who is the president of Nigeria ",
+      "answer": "Bola Ahmed Tinubu"
+    }
+  ]
+}
