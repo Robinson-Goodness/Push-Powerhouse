@@ -1,6 +1,33 @@
 {
   "questions": [
     {
+      "question": "what is the capital of nigeria?",
+      "answer": "the capital of nigeria is Abuja"
+    },
+    {
+      "question": "how many geopolitical zones are in nigeria?",
+      "answer": "6"
+    },
+    {
+      "question": "what's the nigerian currency called?",
+      "answer": "Naira"
+    },
+    {
+      "question": "who is the president of Nigeria?",
+      "answer": "Bola Ahmed Tinubu"
+    },
+    {
+      "question": "the colour of the nigerian flag ?",
+      "answer": "Green, white and Green"
+    },
+    {
+      "question": "The longest river in nigeria?",
+      "answer": "Niger river "
+    },
+    {
+      "question": "who is Bola Ahmed Tinubu?",
+      "answer": "The president of nigeria"
+      {
       "question": "Hello",
       "answer": "Hey there! How are you doing today?"
     },
@@ -271,6 +298,7 @@
     {
       "question": "",
       "answer": ""
+
     }
   ]
 }
