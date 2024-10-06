@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "what is the capital of nigeria?",
+      "answer": "the capital of nigeria is Abuja"
+    },
+    {
+      "question": "how many geopolitical zones are in nigeria?",
+      "answer": "6"
+    },
+    {
+      "question": "what's the nigerian currency called?",
+      "answer": "Naira"
+    },
+    {
+      "question": "who is the president of Nigeria?",
+      "answer": "Bola Ahmed Tinubu"
+    },
+    {
+      "question": "the colour of the nigerian flag ?",
+      "answer": "Green, white and Green"
+    },
+    {
+      "question": "The longest river in nigeria?",
+      "answer": "Niger river "
+    },
+    {
+      "question": "who is Bola Ahmed Tinubu?",
+      "answer": "The president of nigeria"
+      {
+      "question": "Hello",
+      "answer": "Hey there! How are you doing today?"
+    },
+    {
+      "question": "Fine, thank you",
+      "answer": "That is great to hear!"
+    },
+    {
+      "question": "What is a programming language?",
+      "answer": "A programming language is a formal language comprising a set of instructions that produce various kinds of output. It is used to implement algorithms in software development."
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure or formula for solving a problem, typically used in programming and computer science."
+    },
+    {
+      "question": "What is teamwork?",
+      "answer": "Teamwork is the collaborative effort of a group to achieve a common goal or complete a task in the most efficient and effective way."
+    },
+    {
+      "question": "What is debugging?",
+      "answer": "Debugging is the process of identifying, analyzing, and removing errors or bugs from computer code to ensure that a program runs correctly."
+    },
+    {
+      "question": "What is the purpose of comments in programming?",
+      "answer": "Comments in programming are used to annotate code with explanations or notes for other developers or for your future reference. They are ignored by the compiler or interpreter."
+    },
+    {
+      "question": "What is object-oriented programming?",
+      "answer": "Object-oriented programming (OOP) is a programming paradigm based on the concept of objects, which can contain data in the form of fields and code in the form of procedures, known as methods."
+    },
+    {
+      "question": "How do you define a function in Python?",
+      "answer": "In Python, a function is defined using the 'def' keyword, followed by the function name, parentheses, and a colon. For example: def my_function():"
+    },
+    {
+      "question": "What is pair programming?",
+      "answer": "Pair programming is a practice in which two developers work together at one computer, with one writing code and the other reviewing each line as it\u00e2\u20ac\u2122s written. They switch roles frequently."
+    },
+    {
+      "question": "Why is communication important in a team?",
+      "answer": "Communication is crucial in teamwork because it ensures that everyone is on the same page, helps in resolving conflicts, and fosters collaboration, leading to better productivity and outcomes."
+    },
+    {
+      "question": "What is the difference between frontend and backend development?",
+      "answer": "Frontend development deals with the visual and interactive aspects of a website or application, while backend development focuses on server-side logic, databases, and application functionality."
+    },
+    {
+      "question": "What is an API?",
+      "answer": "API stands for Application Programming Interface. It is a set of rules that allows one piece of software to interact with another, typically used for data exchange between systems."
+    },
+    {
+      "question": "What is an IDE?",
+      "answer": "An IDE (Integrated Development Environment) is a software application that provides comprehensive facilities to programmers for software development, including a code editor, compiler, and debugger."
+    },
+    {
+      "question": "What are the stages of software development?",
+      "answer": "The stages of software development include planning, design, coding, testing, deployment, and maintenance."
+    },
+    {
+      "question": "What is Agile methodology?",
+      "answer": "Agile methodology is an iterative approach to software development that focuses on collaboration, customer feedback, and small, rapid releases to improve flexibility and adaptability."
+    },
+    {
+      "question": "What is Git?",
+      "answer": "Git is a distributed version control system used to track changes in the source code during software development. It allows multiple developers to collaborate on projects efficiently."
+    },
+    {
+      "question": "What is GitHub?",
+      "answer": "GitHub is a web-based platform that uses Git for version control. It allows developers to host and share repositories, collaborate on projects, and manage code using Git features like pull requests, issues, and more."
+    },
+    {
+      "question": "What is a repository in Git?",
+      "answer": "A repository, or 'repo', is a directory or storage space where your project lives. It contains all your project files and the history of every change made to those files."
+    },
+    {
+      "question": "What is version control?",
+      "answer": "Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. Git is a popular tool used for version control."
+    },
+    {
+      "question": "What does git init do?",
+      "answer": "'git init' initializes a new Git repository in your project directory. This creates a hidden '.git' folder that tracks changes in your project."
+    },
+    {
+      "question": "How do I create a new repository on GitHub?",
+      "answer": "To create a new repository on GitHub, log in to your account, click the 'New' button in the repository section, fill in the repository name, and choose whether to make it public or private."
+    },
+    {
+      "question": "What does git clone do?",
+      "answer": "'git clone' is used to copy an existing Git repository, usually from a remote source like GitHub, to your local machine."
+    },
+    {
+      "question": "What does git status do?",
+      "answer": "'git status' shows the current state of your working directory and staging area. It lets you see which files have been modified, staged, or are untracked by Git."
+    },
+    {
+      "question": "What does git add do?",
+      "answer": "'git add' adds changes in your working directory to the staging area, preparing them to be committed. For example, 'git add file.txt' stages a specific file."
+    },
+    {
+      "question": "What does git commit do?",
+      "answer": "'git commit' captures a snapshot of the project's currently staged changes. For example, 'git commit -m \"Initial commit\"' creates a commit with a message describing the changes."
+    },
+    {
+      "question": "What is the difference between git fetch and git pull?",
+      "answer": "'git fetch' downloads changes from a remote repository but doesn't apply them to your local files. 'git pull' downloads and immediately applies those changes to your working directory."
+    },
+    {
+      "question": "What is a branch in Git?",
+      "answer": "A branch in Git is a lightweight pointer to a particular commit. It allows you to work on different versions of a project independently, without affecting the main (or 'master') branch."
+    },
+    {
+      "question": "How do I create a new branch in Git?",
+      "answer": "You can create a new branch in Git by using the command 'git branch branch_name'. For example, 'git branch feature-branch' creates a branch named 'feature-branch'."
+    },
+    {
+      "question": "How do I switch between branches in Git?",
+      "answer": "You can switch between branches in Git using the 'git checkout branch_name' command. For example, 'git checkout feature-branch' switches to the 'feature-branch'."
+    },
+    {
+      "question": "What does git merge do?",
+      "answer": "'git merge' integrates changes from one branch into another. For example, to merge changes from 'feature-branch' into 'main', you would first check out 'main' and then run 'git merge feature-branch'."
+    },
+    {
+      "question": "What is a pull request?",
+      "answer": "A pull request is a request to merge changes from one branch into another, typically used in collaborative GitHub projects. It allows developers to review and discuss changes before merging."
+    },
+    {
+      "question": "How do I resolve merge conflicts in Git?",
+      "answer": "Merge conflicts occur when two branches have changes in the same file. To resolve them, Git marks the conflicting sections of the file. You can manually edit the file to choose which changes to keep, then add and commit the resolved file."
+    },
+    {
+      "question": "How do I push changes to a remote repository?",
+      "answer": "'git push' is used to send your committed changes to a remote repository, such as GitHub. For example, 'git push origin main' pushes your changes to the 'main' branch of the remote repository."
+    },
+    {
+      "question": "What does git remote do?",
+      "answer": "'git remote' lets you manage the set of repositories whose branches you track. For example, 'git remote add origin https://github.com/user/repo.git' sets 'origin' as a remote repository."
+    },
+    {
+      "question": "How do I check my commit history?",
+      "answer": "You can check your commit history by running the 'git log' command. It shows a list of commits, including their hashes, messages, and dates."
+    },
+    {
+      "question": "What does git stash do?",
+      "answer": "'git stash' temporarily shelves changes in your working directory so you can work on something else without committing them. You can apply the stashed changes later with 'git stash apply'."
+    },
+    {
+      "question": "What does git rebase do?",
+      "answer": "'git rebase' allows you to move or combine a sequence of commits to a new base commit, helping keep the project history clean and linear."
+    },
+    {
+      "question": "What is the difference between synchronous and asynchronous programming?",
+      "answer": "Synchronous programming executes tasks one after another, while asynchronous programming allows multiple tasks to run concurrently, improving efficiency and responsiveness."
+    },
+    {
+      "question": "What is a promise in JavaScript?",
+      "answer": "A promise in JavaScript is an object that represents the eventual completion (or failure) of an asynchronous operation and its resulting value."
+    },
+    {
+      "question": "What is AJAX?",
+      "answer": "AJAX (Asynchronous JavaScript and XML) is a technique used to send and receive data asynchronously without refreshing the web page, allowing for dynamic content updates."
+    },
+    {
+      "question": "What is JSON?",
+      "answer": "JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate."
+    },
+    {
+      "question": "What is responsive web design?",
+      "answer": "Responsive web design is an approach to web development that ensures a website looks and functions well on a variety of devices and screen sizes, using flexible layouts, images, and CSS media queries."
+    },
+    {
+      "question": "What is a CSS preprocessor?",
+      "answer": "A CSS preprocessor is a scripting language that extends CSS with variables, nested rules, and functions, allowing for more maintainable and scalable stylesheets. Examples include Sass and LESS."
+    },
+    {
+      "question": "What is the purpose of the 'viewport' meta tag?",
+      "answer": "The 'viewport' meta tag controls the layout on mobile browsers. It sets the visible area of a web page and allows for responsive design by specifying the width and scale."
+    },
+    {
+      "question": "What is a web server?",
+      "answer": "A web server is a server that stores, processes, and delivers web pages to clients. It uses the Hypertext Transfer Protocol (HTTP) to communicate with web browsers."
+    },
+    {
+      "question": "What is a CDN?",
+      "answer": "A CDN (Content Delivery Network) is a system of distributed servers that delivers web content to users based on their geographic location, improving load times and availability."
+    },
+    {
+      "question": "What is a SQL database?",
+      "answer": "A SQL database is a type of database that uses Structured Query Language (SQL) to manage and manipulate data. Examples include MySQL, PostgreSQL, and Microsoft SQL Server."
+    },
+    {
+      "question": "What is an ORM?",
+      "answer": "An ORM (Object-Relational Mapping) is a programming technique that allows developers to interact with a database using an object-oriented paradigm, making it easier to work with database records as objects. Examples include Sequelize for Node.js and Hibernate for Java."
+    },
+    {
+      "question": "What is middleware in Express.js?",
+      "answer": "Middleware in Express.js is a function that has access to the request, response, and next middleware function in the application\u00e2\u20ac\u2122s request-response cycle. It can execute code, modify the request and response objects, and end the request-response cycle."
+    },
+    {
+      "question": "What is a session in web development?",
+      "answer": "A session is a temporary interaction between a user and a web application, typically stored on the server, allowing the application to remember the user's information as they navigate through different pages."
+    },
+    {
+      "question": "What is a cookie?",
+      "answer": "A cookie is a small piece of data stored on the user's computer by the web browser while browsing a website. It is used to remember information about the user, such as login details or preferences."
+    },
+    {
+      "question": "What is REST?",
+      "answer": "REST (Representational State Transfer) is an architectural style for designing networked applications, utilizing a stateless communication protocol (typically HTTP) and standard methods like GET, POST, PUT, and DELETE."
+    },
+    {
+      "question": "What is an MVC architecture?",
+      "answer": "MVC (Model-View-Controller) is a design pattern that separates an application into three interconnected components: Model (data), View (user interface), and Controller (business logic), promoting organized and modular code."
+    },
+    {
+      "question": "What is a query in SQL?",
+      "answer": "A query in SQL is a request for data or information from a database. SQL queries are written using SQL syntax to perform operations like selecting, inserting, updating, or deleting data."
+    },
+    {
+      "question": "What is normalization in databases?",
+      "answer": "Normalization is the process of organizing a database to reduce redundancy and improve data integrity by dividing large tables into smaller, related tables and defining relationships between them."
+    },
+    {
+      "question": "What is a foreign key in a database?",
+      "answer": "A foreign key is a field in one table that uniquely identifies a row in another table. It establishes a relationship between the two tables and enforces referential integrity."
+    },
+    {
+      "question": "What is the difference between INNER JOIN and LEFT JOIN?",
+      "answer": "INNER JOIN returns only the rows that have matching values in both tables, while LEFT JOIN returns all rows from the left table and the matched rows from the right table, with NULL values for non-matching rows."
+    },
+    {
+      "question": "What is a database index?",
+      "answer": "A database index is a data structure that improves the speed of data retrieval operations on a database table by providing a quick way to look up rows based on the values of one or more columns."
+    },
+    {
+      "question": "What is SQL injection?",
+      "answer": "SQL injection is a code injection technique that exploits vulnerabilities in an application\u00e2\u20ac\u2122s software by injecting malicious SQL code into a query, allowing attackers to manipulate or access the database."
+    },
+    {
+      "question": "What is an API endpoint?",
+      "answer": "An API endpoint is a specific URL where an API can be accessed by a client application. Each endpoint corresponds to a specific function or resource within the API."
+    },
+    {
+      "question": "What is a web framework?",
+      "answer": "A web framework is a software framework designed to aid in the development of web applications, providing a foundation for building and managing applications. Examples include Django, Flask, and Express.js."
+    },
+    {
+      "question": "What is continuous integration?",
+      "answer": "Continuous integration is a software development practice where developers regularly merge their code changes into a central repository, followed by automated builds and tests to detect issues early."
+    },
+    {
+      "question": "What is a microservice architecture?",
+      "answer": "Microservice architecture is a software design approach that structures an application as a collection of loosely coupled services, each focused on a specific business capability, allowing for easier scalability and maintenance."
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "Cloud computing is the delivery of computing services over the internet, allowing users to access and store data, run applications, and manage resources remotely without local infrastructure."
+    },
+    {
+      "question": "What is DevOps?",
+      "answer": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development lifecycle, improve deployment frequency, and ensure high software quality."
+    },
+    {
+      "question": "what is programming",
+      "answer": "Programming is the process of writing instructions for a computer to perform specific tasks or solve problems. These instructions are written in a programming language, which acts as a bridge between human thought and machine execution"
+    },
+    {
+      "question": "",
+      "answer": ""
+
+    }
+  ]
+}
